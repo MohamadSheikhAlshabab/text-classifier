@@ -26,3 +26,6 @@ Your project will require several dependencies to be installed. Figure out which
 Your project will require downloading external assets to particular locations, and with particular names.
 Some example code may cause errors. Troubleshoot the errors and see if you can fix them.
 Hint - you can
+
+
+PR : [URL](https://github.com/MohamadSheikhAlshabab/text-classifier/pull/1)
