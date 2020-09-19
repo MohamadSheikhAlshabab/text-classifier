@@ -1,9 +1,5 @@
-# Lab: Machine Learning Intro
 
-- Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification. 
-- This falls into the very active research field of natural language processing (NLP).
-- Other common use cases of text classification include detection of spam, auto tagging of customer queries, and categorization of text into defined topics.
-- So how can you do this?
+# Lab: Machine Learning Intro
 
 ## Overview
 
@@ -19,13 +15,29 @@ Your task is to convert Practical Text Classification With Python and Keras tuto
 To accomplish your primary task you’ll need install several libraries and external assets.
 A big part of this lab is building resilience when faced with an incomplete solution.
 Because most of the time that’s what internet is going to give you.
-
-## Implementation Notes
-
+Implementation Notes
 Your project will require several dependencies to be installed. Figure out which ones.
 Your project will require downloading external assets to particular locations, and with particular names.
 Some example code may cause errors. Troubleshoot the errors and see if you can fix them.
 Hint - you can
+Setup
+Create a text-classifier repository on GitHub
 
+## Configuration
 
-PR : [URL](https://github.com/MohamadSheikhAlshabab/text-classifier/pull/1)
+Use poetry to initialize text-classifier project.
+
+> $ cd text-classifier
+> $ poetry init -n
+Refer to Lab Submission Instructions for detailed instructions.
+
+## Stretch Goals
+
+Summarize in your own words what each code cell is doing.
+Choose another dataset to classify.
+See if you can “fiddle with the knobs” and get a higher accuracy rate from baseline model.
+
+## PR
+
+[URL](https://github.com/MohamadSheikhAlshabab/text-classifier/pull/1)
+
